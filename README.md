@@ -7,4 +7,7 @@ Jogo apenas para versão desktop.
 ###Instruções de jogo.</br>
 Aperte a barra de espaço para saltar os obstaculos.
 
+###Para jogar acesse: </br>
+https://luizfelippepucca.github.io/JogoDino/
+
 
