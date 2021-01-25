@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: 0;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+body{
+    background-color: #ecbe5b3d;
+}
+.dino{
+    width: 80px;
+    height: 100px;
+    position: absolute;
+    bottom:0;
+   
+   
+}
+
+.dino img{
+    width: 80;
+    height: 80px;
+    padding-top: 20px;
+  
+   
+    
+}
+.obs{
+    width: 100%;
+    max-width: 60px;
+    height: 60px;
+    position: absolute;
+    overflow-x: hidden;
+    top: 910px;
+    transition: 100ms all linear;
+}
+.game-over{
+    text-align: center;
+    color: #666666;
+    margin-top: 10px;
+}
+@keyframes slidright{
+    from{
+        background-position: 70000%;
+    }to{
+        background-position: 0%;
+    }
+}
+
+.backgorund{
+    position: absolute;
+   
+    bottom: 0;
+    background-image: url(/img/background.png);
+    background-repeat: repeat-x;
+    animation: slidright 600s infinite linear;
+    width: 100%;
+    height: 100px;
+}
