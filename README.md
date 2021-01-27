@@ -1,13 +1,13 @@
 # JogoDino
 Projeto feito no bootcamp da gft_starter juntamente com instrutor.
 
-##Responsividade === false</br>
+## Responsividade === false</br>
 Jogo apenas para versão desktop.
 
-###Instruções de jogo.</br>
+###I nstruções de jogo.</br>
 Aperte a barra de espaço para saltar os obstaculos.
 
-###Para jogar acesse: </br>
+### Para jogar acesse: </br>
 https://luizfelippepucca.github.io/JogoDino/
 
 
